@@ -1,0 +1,16 @@
+# Dependenies
+node_modules/
+
+# Env
+.env
+
+# log files
+logs/
+*.log
+npm-debug.log*
+
+# OS generated Files
+.DS_Store
+
+# database dumps or backups
+dump/
